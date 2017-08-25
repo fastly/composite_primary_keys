@@ -3,7 +3,7 @@ $LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
 require 'composite_primary_keys/version'
 
 Gem::Specification.new do |s|
-  s.name         = 'composite_primary_keys'
+  s.name         = 'fst-composite_primary_keys'
   s.version      = CompositePrimaryKeys::VERSION::STRING
   s.platform     = Gem::Platform::RUBY
   s.authors      = ['Charlie Savage']
